@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "price": 1.5,
+      "name": "coca cola"
+    },
+    {
+      "id": 3,
+      "price": 4,
+      "name": "sprite"
+    },
+    {
+      "name": "fanta",
+      "price": "5",
+      "id": "mYYI9fXCGfQbEJojlkV7d"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "magbaghirov",
+      "password": "admin123",
+      "isAdmin": false
+    },
+    {
+      "id": 2,
+      "username": "magbaghirov admin",
+      "password": "admin123",
+      "isAdmin": true
+    }
+  ]
+}
